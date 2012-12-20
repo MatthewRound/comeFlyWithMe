@@ -4,9 +4,58 @@
     android:layout_height="fill_parent"
     android:orientation="vertical" >
 
-    <TextView
-        android:layout_width="fill_parent"
+    <Button
+        android:id="@+id/noWater"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/hello" />
+        android:text="We got no water" />
+
+    <Button
+        android:id="@+id/weGotCoffee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="We Got Coffee" />
+
+    <Button
+        android:id="@+id/weGotCup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="We Got Cup" />
+
+    <Button
+        android:id="@+id/weGotFullFatMilk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="We got full fat milk" />
+
+    <Button
+        android:id="@+id/weGotGas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="We Got Gas" />
+
+    <Button
+        android:id="@+id/weGotLowFatMilk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="We Got Low fat milk" />
+
+    <Button
+        android:id="@+id/weGotSoyaMilk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="We Got Soay Milk" />
+
+    <Button
+        android:id="@+id/weGotSweetner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="We got Sweetner" />
+
+    <Button
+        android:id="@+id/wellTodaySomethingVery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Well Today something very very" />
 
 </LinearLayout>
