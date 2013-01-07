@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">ComeFlyWithMe</string>
+    <string name="app_name">My Precious App</string>
+    <string name="we_got_no_water">We got no water</string>
+    <string name="we_got_coffee">We got coffee</string>
+    <string name="we_got_cup">We got cup</string>
+    <string name="we_got_full_fat_milk">We got full fat milk</string>
+    <string name="we_got_gas">We got gas</string>
+    <string name="we_got_low_fat_milk">We got low fat milk</string>
+    <string name="we_got_soya_milk">We got soya milk</string>
+    <string name="we_got_sweetner">We got sweetner</string>
+    <string name="we_today_something_very">Well today something very</string>
+    <string name="author">roundyz</string>
 
 </resources>

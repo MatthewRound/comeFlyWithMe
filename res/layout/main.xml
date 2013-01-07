@@ -1,61 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
+    android:background="@drawable/precious_background"
     android:orientation="vertical" >
 
     <Button
         android:id="@+id/noWater"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="We got no water" />
+        android:text="@string/we_got_no_water" />
 
     <Button
         android:id="@+id/weGotCoffee"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="We Got Coffee" />
+        android:text="@string/we_got_coffee" />
 
     <Button
         android:id="@+id/weGotCup"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="We Got Cup" />
+        android:text="@string/we_got_cup" />
 
     <Button
         android:id="@+id/weGotFullFatMilk"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="We got full fat milk" />
+        android:text="@string/we_got_full_fat_milk" />
 
     <Button
         android:id="@+id/weGotGas"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="We Got Gas" />
+        android:text="@string/we_got_gas" />
 
     <Button
         android:id="@+id/weGotLowFatMilk"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="We Got Low fat milk" />
+        android:text="@string/we_got_low_fat_milk" />
 
     <Button
         android:id="@+id/weGotSoyaMilk"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="We Got Soay Milk" />
+        android:text="@string/we_got_soya_milk" />
 
     <Button
         android:id="@+id/weGotSweetner"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="We got Sweetner" />
+        android:text="@string/we_got_sweetner" />
 
     <Button
         android:id="@+id/wellTodaySomethingVery"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Well Today something very very" />
+        android:text="@string/we_today_something_very" />
 
 </LinearLayout>
